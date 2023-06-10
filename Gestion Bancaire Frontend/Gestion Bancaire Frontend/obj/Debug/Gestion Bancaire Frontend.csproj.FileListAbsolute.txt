@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\bin\Debug\Gestion Bancaire Frontend.exe.config
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\bin\Debug\Gestion Bancaire Frontend.exe
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\bin\Debug\Gestion Bancaire Frontend.pdb
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\obj\Debug\Gestion Bancaire Frontend.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\obj\Debug\Gestion Bancaire Frontend.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\obj\Debug\Gestion_Bancaire_Frontend.Form1.resources
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\obj\Debug\Gestion_Bancaire_Frontend.Properties.Resources.resources
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\obj\Debug\Gestion Bancaire Frontend.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\obj\Debug\Gestion Bancaire Frontend.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\obj\Debug\Gestion Bancaire Frontend.exe
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\obj\Debug\Gestion Bancaire Frontend.pdb
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\obj\Debug\Gestion_Bancaire_Frontend.Form2.resources
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\Gestion Bancaire Frontend\Gestion Bancaire Frontend\obj\Debug\Gestion Bancaire Frontend.csproj.CopyComplete
